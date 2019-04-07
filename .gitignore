@@ -1,0 +1,12 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*~
+\#*
+.\#*
+.juliahistory
+
+# let's wait for official PR
+Project.toml
+
+Manifest.toml
